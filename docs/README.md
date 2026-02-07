@@ -34,6 +34,21 @@ Practical guide for developers integrating with OpenCode:
 
 **Best for:** Building integrations, quick API lookups, example code snippets
 
+### [EVENT-STREAMING.md](./EVENT-STREAMING.md)
+**Deep dive into the `/event` endpoint and SSE streaming**
+
+Focused guide on how event streaming works:
+- How the `/event` endpoint broadcasts events
+- Instance isolation (per project directory)
+- Client-side filtering by sessionID or event type
+- Event structure and all event types
+- Connection management and reconnection
+- JavaScript and Python filtering examples
+- Multi-project and multi-session patterns
+- Performance and debugging tips
+
+**Best for:** Understanding event flow, implementing real-time UI updates, handling permissions/questions
+
 ---
 
 ## 🚀 Quick Start
