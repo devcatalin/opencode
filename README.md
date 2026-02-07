@@ -111,6 +111,10 @@ Learn more about [agents](https://opencode.ai/docs/agents).
 
 For more info on how to configure OpenCode, [**head over to our docs**](https://opencode.ai/docs).
 
+**Architecture & API Documentation:**
+- [Architecture Overview](./docs/ARCHITECTURE.md) - System design, components, and workflows
+- [API Quick Reference](./docs/API-QUICK-REFERENCE.md) - REST API endpoints and examples
+
 ### Contributing
 
 If you're interested in contributing to OpenCode, please read our [contributing docs](./CONTRIBUTING.md) before submitting a pull request.
